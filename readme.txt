@@ -7,3 +7,4 @@ Creating a new branch is quick.
 123
 456
 分支管理策略
+分支合并
